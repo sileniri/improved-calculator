@@ -20,4 +20,6 @@ function poelse() {
     arr = mathedArr;
 }
 
+setTimeout(() => {
 setInterval(poelse, 300);
+}, 100);
