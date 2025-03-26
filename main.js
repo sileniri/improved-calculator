@@ -45,4 +45,4 @@ setTimeout(() => {
         }
         console.log('Wow your computer just keeps going.');
     }
-}, 100);
+}, 5000);
